@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="name">Nama</string>
+    <string name="description">Desckripsi</string>
+    <string name="search">Cari</string>
+    <string name="insert_movie">Masukkan Film</string>
+
+    <string name="change_language_settings">Ubah Bahasa</string>
+
+    <string name="title">Title</string>
+    <string name="rating">Rating</string>
+    <string name="language">Bahasa</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="overview">Ikhtisar</string>
+
+    <string name="now_playing">Sedang Diputar</string>
+    <string name="upcoming">Segera</string>
+</resources>
